@@ -15,4 +15,4 @@ for i in range(len(elements)):
     menu_list.append(elements[i].get_text())
     print(elements[i])
     
-#print(menu_list[0])
+print(menu_list[0])
